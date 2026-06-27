@@ -1,121 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101419,50:2563EB,100:22D3EE&height=200&section=header&text=atx9ine&fontSize=72&fontColor=e0e2ea&fontAlignY=38&desc=Build.%20Deploy.%20Secure.&descAlignY=60&descSize=18&fontFamily=JetBrains%20Mono" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Full-Stack+Developer+%7C+Ethical+Hacker+in+Training;Laravel+%C2%B7+Vue.js+%C2%B7+Go+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+Pen+Testing" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101419,40:0E131B,100:101419&height=180&text=atx9ine&fontSize=80&fontColor=b4c5ff&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20Ethical%20Hacker%20in%20Training&descSize=14&descAlignY=78&descColor=8d90a0&fontFamily=JetBrains%20Mono" width="100%" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=atx9ine&style=for-the-badge&color=2563EB&label=SYSTEM+ACCESS&labelColor=101419)
+![](https://img.shields.io/badge/STATUS-ONLINE-101419?style=flat-square&labelColor=1d2025&color=22D3EE)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-ONLINE-22D3EE?style=for-the-badge&labelColor=101419&color=22D3EE)
+![](https://img.shields.io/badge/TRACK-SECURITY%20ENGINEERING-101419?style=flat-square&labelColor=1d2025&color=ffb95f)
 &nbsp;
-![Focus](https://img.shields.io/badge/FOCUS-SECURITY+TRACK-FF6B35?style=for-the-badge&labelColor=101419)
+![](https://img.shields.io/badge/ROLE-FULL--STACK%20DEVELOPER-101419?style=flat-square&labelColor=1d2025&color=2563EB)
+&nbsp;
+![](https://komarev.com/ghpvc/?username=atx9ine&style=flat-square&color=434655&label=PROFILE+VIEWS&labelColor=1d2025)
 
 </div>
 
 ---
 
-```bash
-atx9ine@system:~$ ./boot --identity --verbose
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 01 — Identity
+
 ```
+Name      atx9ine
+Type      Self-taught Developer
+Track     Full-Stack → Security
+Status    Always building
 ```
-[  OK  ] identity............. atx9ine
-[  OK  ] foundation........... Full-Stack Web Development
-[  OK  ] stack................ Laravel · Vue.js · PostgreSQL
-[  OK  ] learning............. Go · Docker · Linux · NGINX · Caddy · CI/CD
-[  OK  ] automation........... N8N · WordPress · WooCommerce
-[  OK  ] security track....... Pen Testing · Ethical Hacking
-[ BOOT  ] philosophy........... Build. Deploy. Secure.
-▶ all systems nominal.
-```
+
+Building practical software today while learning the systems that power tomorrow. Full-stack foundation with a growing focus on infrastructure, DevOps, and ethical hacking.
+
+> *"Full-stack with a hacker's mind."*
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — Current Focus
+
+| Module | Status |
+|---|---|
+| Laravel · Vue.js | `● active` |
+| PostgreSQL · Supabase | `● active` |
+| N8N · WordPress | `● active` |
+| Go · Docker · Linux | `→ learning` |
+| NGINX · Caddy · CI/CD | `→ learning` |
+| Pen Testing · Security | `⚠ acquiring` |
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+### Stack
 
-## `~/stack` — Production
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+**Production**
 
-## `~/stack` — Databases
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+</td>
+<td width="25%" align="center" valign="top">
 
-## `~/stack` — Infrastructure `[→ learning]`
+**Infrastructure**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## `~/stack` — Security `[→ acquiring]`
+</td>
+<td width="25%" align="center" valign="top">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/Pen_Testing-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+**Security**
 
-## `~/stack` — AI & Automation
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![HTB](https://img.shields.io/badge/HTB-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+</td>
+<td width="25%" align="center" valign="top">
 
-</div>
+**Databases & AI**
 
----
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![WordPress](https://img.shields.io/badge/WP-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/Woo-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
-```bash
-atx9ine@system:~$ systemctl status --all
-```
-
-```
-SERVICE                       STATUS         UPTIME
-──────────────────────────────────────────────────────────────
-laravel.service             ● active         core backend
-vuejs.service               ● active         frontend layer  
-postgresql.service          ● active         primary db
-n8n-automation.service      ● active         AI workflows
-wordpress.service           ● active         CMS + ecommerce
-
-go-lang.service             → learning       systems language
-docker.service              → learning       containerization
-nginx.service               → learning       reverse proxy
-caddy.service               → learning       modern web server
-cicd.service                → learning       deploy pipelines
-linux-internals.service     → learning       deep OS knowledge
-
-pentesting.service          ⚠ acquiring     ethical hacking
-security-audit.service      ⚠ acquiring     recon · offense · defense
-```
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-
-## `~/roadmap`
-
-</div>
+### Roadmap
 
 ```mermaid
 flowchart LR
-    A["⬡ Laravel\nVue.js"] -->|deepen| B["⬡ Go\nSystems"]
-    A -->|containerize| C["⬡ Docker\nLinux"]
-    B & C -->|serve| D["⬡ NGINX\nCaddy"]
-    D -->|automate| E["⬡ CI/CD\nPipelines"]
-    E -->|harden| F["⚠ Pen Testing\nEthical Hacking"]
-    F -->|master| G["⬡ Full-Stack\n+ Security Engineer"]
+    A["Laravel\nVue.js"] -->|deepen| B["Go\nSystems"]
+    A -->|containerize| C["Docker\nLinux"]
+    B & C -->|serve| D["NGINX\nCaddy"]
+    D -->|automate| E["CI/CD\nPipelines"]
+    E -->|harden| F["Pen Testing\nEthical Hacking"]
+    F -->|master| G["Full-Stack\n+ Security Engineer"]
 
     style A fill:#1d2025,stroke:#42B883,color:#e0e2ea
     style B fill:#1d2025,stroke:#00ADD8,color:#e0e2ea
@@ -128,40 +131,60 @@ flowchart LR
 
 ---
 
-```bash
-atx9ine@system:~$ cat philosophy.conf
+### Principles
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+**Engineering**
+```
+Write clean code.
+Think in systems.
+Document everything.
 ```
 
-```ini
-[engineering]
-code         = clean · typed · documented
-architecture = think in systems, not just features
-security     = if you built it, learn to break it
+</td>
+<td width="33%" align="center">
 
-[automation]
-rule         = if you do it twice, automate it
-tools        = n8n · github actions · bash
-
-[mindset]
-pace         = consistent > fast
-direction    = full-stack → infrastructure → security
-goal         = build software that is scalable, reliable, and secure
+**Security**
 ```
+Build it. Break it.
+Harden it.
+Secure by default.
+```
+
+</td>
+<td width="33%" align="center">
+
+**Mindset**
+```
+Automate the rest.
+Consistent > fast.
+Never stop learning.
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
+### Connect
+
 <div align="center">
 
-## `~/connect`
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atx9ine)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atx9ine)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atx9ine)
+&nbsp;
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atx9ine)
+&nbsp;
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@atx9ine)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:2563EB,100:101419&height=120&section=footer&text=Always+building.+Always+learning.+Always+hacking.&fontSize=13&fontColor=e0e2ea&fontAlignY=65&fontFamily=JetBrains%20Mono" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101419,50:1d2025,100:101419&height=60&text=Build.%20Deploy.%20Secure.&fontSize=16&fontColor=434655&fontAlignY=55&fontFamily=JetBrains%20Mono" width="100%" />
 
 </div>
 
@@ -169,9 +192,10 @@ goal         = build software that is scalable, reliable, and secure
   atx9ine design system
   Background  : #101419
   Surface     : #1d2025
-  Cards       : #141B25
-  Primary     : #2563EB
-  Cyan        : #22D3EE
+  Primary     : #2563EB → #b4c5ff
+  Cyan        : #22D3EE → #5de6ff
   Amber       : #ffb95f
+  Outline     : #434655
+  On-Surface  : #e0e2ea
   Identity    : Minimal · Engineering · Systems · Precision · Security
 -->
